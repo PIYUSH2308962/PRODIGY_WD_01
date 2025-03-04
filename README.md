@@ -1,5 +1,19 @@
-# **Responsive Landing Page with Interactive Navigation**
+# **Interactive Navigation Menu**
 
-### **Project Overview**
+## **Description**
 
-This project is a responsive landing page featuring a fixed navigation menu that changes style when scrolled or hovered. It is designed using HTML, CSS, and JavaScript to provide a smooth and interactive user experience.
+This project is an interactive navigation menu that enhances user experience by dynamically changing its appearance based on user interaction. The menu remains fixed at the top of the page and provides visual feedback when hovered over or when the page is scrolled.
+
+### *Features*
+
+- Stylish & Fixed Navigation Bar
+- Hover Effects
+- Scroll-based Color Change
+- Responsive Design
+- Smooth Animations
+
+### *Technologies Used*
+
+- HTML: Structuring the navigation bar
+- CSS: Styling and animations
+- Javascript: Interactive scroll and hover effects
